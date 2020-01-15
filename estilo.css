@@ -1,0 +1,48 @@
+/* CSS HTML */
+html {
+    background-color: #c4d7ed;
+}
+/* CSS BODY */
+body {
+    font-family: sans-serif;
+    text-align: justify;
+}
+/* CSS TITULO Y SUBTITULO */
+h1 {
+    text-align: right;
+    font-size: 3rem;
+}
+
+h2 {
+    font-family: monospace;
+    font-size: 3rem;
+    font-variant: small-caps;
+}
+/* CSS PARRAFOS */
+p {
+    line-height: 200%;
+    text-indent: 3em;
+  }
+/* CSS ETIQUETAS DE PARRAFOS */
+em {
+    background-color: White;
+    color: #2f8000;
+}
+
+time {
+    color: #ff8c00;
+}
+
+strong {
+    color: #d26942;
+}
+
+span {
+    color: red;
+    font-family: "Comic Sans", cursive;
+}
+/* CSS PIE DE PAGINA */
+address {
+    text-align: center;
+    font-size: 1rem;
+}
